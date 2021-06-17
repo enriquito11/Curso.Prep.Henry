@@ -1,0 +1,6 @@
+
+    *Variables = Guardan datos ya sean numeros o texto, o dem{as}
+	* Strings = son textos.
+	* Funciones (argumentos, `return`) = las funciones nos sirven para realizar acciones y poderlas reutilizar, estas funciones necesitan de un argumento que puede ser una variable. Y el return como su nombre indica nos retorna un valor en base a lo que especificamos en la funcion.
+	* Declaraciones `if` = el If quiere decir basicamente que necesitamos de una condición para que suceda tal cosa, por ejemplo: Si el numero es par entonces devuelvo "El numero es par".
+	* Valores booleanos (`true`, `false`) = los valores booleanos solo nos pueden dar dos valores, verdadero o falso. Por ejemplo: Si el numero 9 es positivo entonces devuelvo verdadero, si no, devuelvo falso.
