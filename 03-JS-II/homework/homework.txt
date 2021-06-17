@@ -1,0 +1,2 @@
+* `for`= basicamente es un bucle que nos permite recorrer arreglos, mostrar numeros en pantalla sumando un numero, etc.
+* `&&`, `||`, `!` = &&: sirve como "Y", por ejemplo esto Y esto. || significa "O" u "or" en inglés, esto O esto. ! significa Not o distinto. ejemplo : No es esto
